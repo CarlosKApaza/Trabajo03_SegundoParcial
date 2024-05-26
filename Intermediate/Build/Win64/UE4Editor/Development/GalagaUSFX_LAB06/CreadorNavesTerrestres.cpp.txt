@@ -1,0 +1,17 @@
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_LAB06\Definitions.GalagaUSFX_LAB06.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\CreadorNavesTerrestres.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\CreadorNaves.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\NaveEnemiga.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\NaveEnemiga.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\GalagaUSFX_LAB06GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\GalagaUSFX_LAB06GameMode.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\CreadorNaves.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\CreadorNavesTerrestres.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\NaveTerrestre_Transporte.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\NaveTerrestre_Transporte.generated.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Source\GalagaUSFX_LAB06\NaveTerrestre_Artilleria.h
+D:\Mi Repositorio Final (Para Pruebas)\GalagaUSFX_LAB02-master\GalagaUSFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\GalagaUSFX_LAB06\NaveTerrestre_Artilleria.generated.h

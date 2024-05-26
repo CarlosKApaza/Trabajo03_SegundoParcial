@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GalagaUSFX_LAB06",
+			"Path": "D:\\Mi Repositorio Final (Para Pruebas)\\GalagaUSFX_LAB02-master\\GalagaUSFX_LAB02-master\\Source\\GalagaUSFX_LAB06.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalagaUSFX_LAB06Editor",
+			"Path": "D:\\Mi Repositorio Final (Para Pruebas)\\GalagaUSFX_LAB02-master\\GalagaUSFX_LAB02-master\\Source\\GalagaUSFX_LAB06Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
